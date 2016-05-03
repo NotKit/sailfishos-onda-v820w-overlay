@@ -1,0 +1,7 @@
+UUID=53e7b0ea-8150-4b73-a1d2-51f3f25e5772  /  ext4  defaults,noatime 0 0
+#UUID=7bdfc35a-142d-44af-b711-94d7aa471a42  /fimage  ext4  defaults,noatime 0 0
+#UUID=4b523fa4-c23a-4422-8ee5-f7c465c1e01e  /home  ext4  defaults,noatime 0 0
+devpts     /dev/pts  devpts  gid=5,mode=620   0 0
+tmpfs      /dev/shm  tmpfs   defaults         0 0
+proc       /proc     proc    defaults         0 0
+sysfs      /sys      sysfs   defaults         0 0

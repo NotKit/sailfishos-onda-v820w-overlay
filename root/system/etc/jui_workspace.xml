@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res/com.android.launcher3" >
+	<appwidget
+        launcher:packageName="com.jui.launcher3"     
+        launcher:className="com.jui.quicksearchbox.JuiSearchWidgetProvider"
+        launcher:screen="0"
+        launcher:x="1"
+        launcher:y="0"
+        launcher:spanX="4"
+        launcher:spanY="1"/> 
+	<appwidget
+        launcher:packageName="com.jui.launcher3"     
+        launcher:className="com.jui.launcher3.jui.appwidget.LastlyOpenAppWidget"
+        launcher:screen="0"
+        launcher:x="1"
+        launcher:y="1"
+        launcher:spanX="4"
+        launcher:spanY="2"/>
+    <favorite
+        launcher:className="com.keniu.security.main.MainActivity"
+        launcher:packageName="com.cleanmaster.mguard_cn"
+        launcher:screen="1"
+        launcher:x="0"
+        launcher:y="0" />
+    <juiview
+        launcher:screen="1"
+        launcher:title="@string/jui_widget_wifi"
+        launcher:x="1"
+        launcher:y="0" />
+
+    <favorite
+        launcher:className="com.android.deskclock.DeskClock"
+        launcher:packageName="com.android.deskclock"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="0" />
+    <favorite
+        launcher:className="com.android.calendar.AllInOneActivity"
+        launcher:packageName="com.android.calendar"
+        launcher:screen="1"
+        launcher:x="3"
+        launcher:y="0" />
+    <favorite
+        launcher:className="com.android.calendar.AllInOneActivity"
+        launcher:packageName="com.google.android.calendar"
+        launcher:screen="1"
+        launcher:x="3"
+        launcher:y="0" />
+
+    <!--juiview
+        launcher:screen="1"
+        launcher:title="@string/jui_widget_recommend"
+        launcher:x="4"
+        launcher:y="0" /-->
+	<juiview
+        launcher:screen="1"
+        launcher:title="@string/jui_theme"
+        launcher:x="4"
+        launcher:y="0" />
+    <favorite
+        launcher:className="com.jianui.filemanager.FileExplorerTabActivity"
+        launcher:packageName="com.jianui.filemanager"
+        launcher:screen="1"
+        launcher:x="0"
+        launcher:y="1" />
+	<favorite
+        launcher:className="com.cs.filemanager.FileExplorerActivity"
+        launcher:packageName="com.jianui.filemanager"
+        launcher:screen="1"
+        launcher:x="0"
+        launcher:y="1" />
+    <favorite
+        launcher:className="com.softwinner.explore.Main"
+        launcher:packageName="com.softwinner.explore"
+        launcher:screen="1"
+        launcher:x="0"
+        launcher:y="1" />
+    <favorite
+        launcher:className="com.android.camera.CameraLauncher"
+        launcher:packageName="com.android.camera2"
+        launcher:screen="1"
+        launcher:x="1"
+        launcher:y="1" />
+    <favorite
+        launcher:className="com.android.camera.CameraLauncher"
+        launcher:packageName="com.android.awgallery"
+        launcher:screen="1"
+        launcher:x="1"
+        launcher:y="1" />
+    <favorite
+        launcher:className="com.jui.gallery3d.app.Gallery"
+        launcher:packageName="com.jui.gallery3d"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="1" />
+	<favorite
+        launcher:className="com.android.gallery3d.app.GalleryActivity"
+        launcher:packageName="com.android.gallery3d"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="1" />
+    <favorite
+        launcher:className="com.onda.mid.MainActivity"
+        launcher:packageName="com.onda.mid"
+        launcher:screen="1"
+        launcher:x="3"
+        launcher:y="1" />
+    <favorite
+        launcher:className="cn.keyshare.learningcenter.ui.activity.SplashActivity"
+        launcher:packageName="cn.keyshare.learningcenter"
+        launcher:screen="1"
+        launcher:x="4"
+        launcher:y="1" />
+	<favorite
+        launcher:className="cn.jaxus.course.SplashActivity"
+        launcher:packageName="cn.keyshare.learningcenter"
+        launcher:screen="1"
+        launcher:x="4"
+        launcher:y="1" />
+    <favorite
+        launcher:className="com.sensky.sunshinereader.logo.logo"
+        launcher:packageName="com.readingjoy.read.hd"
+        launcher:screen="1"
+        launcher:x="0"
+        launcher:y="2" />
+	<!--juiview
+        launcher:screen="1"
+        launcher:title="@string/jui_widget_lockscreen"
+        launcher:x="1"
+        launcher:y="2" />
+	<favorite
+        launcher:className="com.android.settings.Settings"
+        launcher:packageName="com.android.settings"
+        launcher:screen="1"
+        launcher:x="1"
+        launcher:y="2" /-->
+	<folder
+        launcher:screen="2"
+        launcher:title="@string/title_folder_name_tool"
+        launcher:x="0"
+        launcher:y="0" >
+        <favorite
+            launcher:className="com.android.soundrecorder.SoundRecorder"
+            launcher:packageName="com.android.soundrecorder"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.google.android.googlequicksearchbox.VoiceSearchActivity"
+            launcher:packageName="com.google.android.googlequicksearchbox"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.google.android.gms.common.settings.GoogleSettingsActivity"
+            launcher:packageName="com.google.android.gms"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.google.android.gms.app.settings.GoogleSettingsActivity"
+            launcher:packageName="com.google.android.gms"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity"
+            launcher:packageName="com.google.android.inputmethod.pinyin"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.google.android.googlequicksearchbox.SearchActivity"
+            launcher:packageName="com.google.android.googlequicksearchbox"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.adobe.flashplayer.SettingsManager"
+            launcher:packageName="com.adobe.flashplayer"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.tencent.qqpinyin.activity.GuideDialogActivity"
+            launcher:packageName="com.tencent.qqpinyin"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.baidu.input.ImeMainConfigActivity"
+            launcher:packageName="com.baidu.input"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.sohu.inputmethod.sogou.SogouIMELauncher"
+            launcher:packageName="com.sohu.inputmethod.sogou"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.iflytek.inputmethod.pad.WizardActivity"
+            launcher:packageName="com.iflytek.inputmethod.pad"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.softwinner.update.UpdateActivity"
+            launcher:packageName="com.softwinner.update"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.allwinnertech.reader.ReaderActivity"
+            launcher:packageName="com.allwinnertech.reader"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.android.email.activity.Welcome"
+            launcher:packageName="com.android.email"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.pada.padasf.MainActivity"
+            launcher:packageName="com.pada.padasf"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.pada.padasf.LoginActivity"
+            launcher:packageName="com.pada.padasf"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.android.update.UpdateMain"
+            launcher:packageName="com.android.update"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.jianui.update.UpdateMain"
+            launcher:packageName="com.jianui.update"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.android.development.Development"
+            launcher:packageName="com.android.development"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+		<favorite
+            launcher:className="com.intel.vtsv.config.ui.Tutorial"
+            launcher:packageName="com.intel.vtsv.config"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+		<favorite
+            launcher:className="com.intel.widi.widireceiver.WidiReceiverActivity"
+            launcher:packageName="com.intel.widi.widireceiver"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+		<favorite
+			launcher:className="com.android.calculator2.Calculator"
+			launcher:packageName="com.android.calculator2"
+			launcher:screen="2"
+			launcher:x="0"
+            launcher:y="0" /> 
+		<favorite
+            launcher:className="com.jui.quicksearchbox.SearchActivity"
+            launcher:packageName="com.jui.launcher3"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="0" />
+    </folder>
+    <folder
+        launcher:screen="2"
+        launcher:title="@string/title_folder_name_map"
+        launcher:x="1"
+        launcher:y="0" >
+        <favorite
+            launcher:className="com.google.android.maps.MapsActivity"
+            launcher:packageName="com.google.android.apps.maps"
+            launcher:screen="2"
+            launcher:x="1"
+			launcher:y="0" />
+        <favorite
+            launcher:className="com.google.android.maps.driveabout.app.DestinationActivity"
+            launcher:packageName="com.google.android.apps.maps"
+            launcher:screen="2"
+            launcher:x="1"
+			launcher:y="0" />
+        <favorite
+            launcher:className="com.google.android.maps.PlacesActivity"
+            launcher:packageName="com.google.android.apps.maps"
+            launcher:screen="2"
+            launcher:x="1"
+			launcher:y="0" />
+        <favorite
+            launcher:className="com.autonavi.minimap.Splashy"
+            launcher:packageName="com.autonavi.minimap"
+            launcher:screen="2"
+            launcher:x="1"
+			launcher:y="0" />
+    </folder>
+    <folder
+        launcher:screen="2"
+        launcher:title="@string/title_folder_name_internet"
+        launcher:x="2"
+		launcher:y="0" >
+        <favorite
+            launcher:className="com.android.browser.BrowserActivity"
+            launcher:packageName="com.android.browser"
+            launcher:screen="2"
+            launcher:x="2"
+			launcher:y="0" />
+        <favorite
+            launcher:className="com.opera.android.OupengStartActivity"
+            launcher:packageName="com.oupeng.browser"
+            launcher:screen="2"
+            launcher:x="2"
+			launcher:y="0" />
+        <favorite
+            launcher:className="com.baidu.browser.apps.BrowserActivity"
+            launcher:packageName="com.baidu.browser.pad"
+            launcher:screen="2"
+            launcher:x="2"
+			launcher:y="0" />
+        <favorite
+            launcher:className="com.baidu.hao123.ACSplash"
+            launcher:packageName="com.baidu.hao123"
+            launcher:screen="2"
+            launcher:x="2"
+			launcher:y="0" />
+        <favorite
+            launcher:className="com.google.android.apps.chrome.Main"
+            launcher:packageName="com.android.chrome"
+            launcher:screen="2"
+            launcher:x="2"
+			launcher:y="0" />
+        <favorite
+            launcher:className="com.baidu.searchbox.MainActivity"
+            launcher:packageName="com.baidu.searchbox.pad"
+            launcher:screen="2"
+            launcher:x="2"
+			launcher:y="0" />
+        <favorite
+            launcher:className="com.chaozh.iReader.ui.activity.WelcomeActivity"
+            launcher:packageName="com.chaozh.iReaderFree"
+            launcher:screen="2"
+            launcher:x="2"
+			launcher:y="0" />
+        <favorite
+            launcher:className="com.baidu.news.ui.IndexActivity"
+            launcher:packageName="com.baidu.news"
+            launcher:screen="2"
+            launcher:x="2"
+			launcher:y="0" />
+        <favorite
+            launcher:className="com.amazon.kindle.UpgradePage"
+            launcher:packageName="com.amazon.kindle"
+            launcher:screen="2"
+            launcher:x="2"
+			launcher:y="0" />
+        <favorite
+            launcher:className="cn.wps.moffice.documentmanager.PreStartActivity"
+            launcher:packageName="cn.wps.moffice"
+            launcher:screen="2"
+            launcher:x="2"
+			launcher:y="0" />
+    </folder>
+    <folder
+        launcher:screen="2"
+        launcher:title="@string/title_folder_name_video"
+        launcher:x="3"
+        launcher:y="0" >
+        <favorite
+            launcher:className="com.softwinner.fireplayer.ui.FourKMainActivity"
+            launcher:packageName="com.softwinner.fireplayer"
+            launcher:screen="2"
+            launcher:x="3"
+            launcher:y="0" />
+        <favorite
+            launcher:className="cn.kuwo.player.activities.EntryActivity"
+            launcher:packageName="cn.kuwo.player"
+            launcher:screen="2"
+            launcher:x="3"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.android.music.MusicBrowserActivity"
+            launcher:packageName="com.android.music"
+            launcher:screen="2"
+            launcher:x="3"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.android.music.activitymanagement.TopLevelActivity"
+            launcher:packageName="com.google.android.music"
+            launcher:screen="2"
+            launcher:x="3"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.letv.android.client.pad.WelcomeActivity"
+            launcher:packageName="com.letv.android.client.pad"
+            launcher:screen="2"
+            launcher:x="3"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.sohu.tv.activity.MainActivity"
+            launcher:packageName="com.sohu.tv"
+            launcher:screen="2"
+            launcher:x="3"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.youku.phone.ActivityWelcome"
+            launcher:packageName="com.youku.phone"
+            launcher:screen="2"
+            launcher:x="3"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.mxtech.videoplayer.ActivityVideoList"
+            launcher:packageName="com.mxtech.videoplayer.pro"
+            launcher:screen="2"
+            launcher:x="3"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.mxtech.videoplayer.ad.ActivityMediaList"
+            launcher:packageName="com.mxtech.videoplayer.ad"
+            launcher:screen="2"
+            launcher:x="3"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.tencent.qqlive.activity.WelcomeActivity"
+            launcher:packageName="com.tencent.qqlive"
+            launcher:screen="2"
+            launcher:x="3"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.qiyi.video.pad.activity.WelcomeActivity"
+            launcher:packageName="com.qiyi.video.pad"
+            launcher:screen="2"
+            launcher:x="3"
+            launcher:y="0" />
+    </folder>
+    <folder
+        launcher:screen="2"
+        launcher:title="@string/title_folder_name_shopping"
+        launcher:x="4"
+        launcher:y="0" >
+        <favorite
+            launcher:className="com.taobao.apad.activity.MainActivity"
+            launcher:packageName="com.taobao.apad"
+            launcher:screen="2"
+            launcher:x="4"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.tmall.wireless.activity.TMSplashActivity"
+            launcher:packageName="com.tmall.wireless"
+            launcher:screen="2"
+            launcher:x="4"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.etao.android.pad.Welcome"
+            launcher:packageName="com.etao.android.pad"
+            launcher:screen="2"
+            launcher:x="4"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.sankuai.meituan.activity.Welcome"
+            launcher:packageName="com.sankuai.meituan"
+            launcher:screen="2"
+            launcher:x="4"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.sankuai.meituanhd.Welcome"
+            launcher:packageName="com.sankuai.meituanhd"
+            launcher:screen="2"
+            launcher:x="4"
+            launcher:y="0" />
+        <favorite
+            launcher:className="com.amazon.windowshop.home.HomeLauncherActivity"
+            launcher:packageName="com.amazon.windowshop"
+            launcher:screen="2"
+            launcher:x="4"
+            launcher:y="0" />
+    </folder>
+    <folder
+        launcher:screen="2"
+        launcher:title="@string/title_folder_name_download"
+        launcher:x="0"
+        launcher:y="1" >
+        <favorite
+            launcher:className="com.android.vending.AssetBrowserActivity"
+            launcher:packageName="com.android.vending"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="1" />
+        <favorite
+            launcher:className="com.onda2.gfan.ui.SplashActivity"
+            launcher:packageName="com.onda2.gfan"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="1" />
+        <favorite
+            launcher:className="com.onda.gfan.ui.SplashActivity"
+            launcher:packageName="com.onda.gfan"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="1" />
+        <favorite
+            launcher:className="com.android.providers.downloads.ui.DownloadList"
+            launcher:packageName="com.android.providers.downloads.ui"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="1" />
+        <favorite
+            launcher:className="com.wandoujia.p4.activity.ExploreActivity"
+            launcher:packageName="com.wandoujia.phoenix2"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="1" />
+		<favorite
+            launcher:className="com.wandoujia.phoenix2.NewWelcomeActivity"
+            launcher:packageName="com.wandoujia.phoenix2"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="1" />
+        <favorite
+            launcher:className="com.goapk.market.GoMarketMain"
+            launcher:packageName="com.goapk.market"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="1" />
+        <favorite
+            launcher:className="cn.goapk.market.GoApkLoginAndRegister"
+            launcher:packageName="cn.goapk.market"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="1" />
+        <favorite
+            launcher:className="com.pada.appstore.activity.SplashActivity"
+            launcher:packageName="com.pada.appstore"
+            launcher:screen="2"
+            launcher:x="0"
+            launcher:y="1" />
+    </folder>
+    <folder
+        launcher:screen="2"
+        launcher:title="@string/title_folder_name_game"
+        launcher:x="1"
+        launcher:y="1" >
+        <favorite
+            launcher:className="org.cocos2dx.FishingJoy2.FishingJoy2"
+            launcher:packageName="org.cocos2dx.FishingJoy2"
+            launcher:screen="2"
+            launcher:x="1"
+            launcher:y="1" />
+        <favorite
+            launcher:className="com.boyaa.lordland.sina.LoginAcitivity"
+            launcher:packageName="com.boyaa.lordland.yubei_112173"
+            launcher:screen="2"
+            launcher:x="1"
+            launcher:y="1" />
+        <favorite
+            launcher:className="com.boyaa.lordland.angda_yz.Game"
+            launcher:packageName="com.boyaa.lordland.angda_yz"
+            launcher:screen="2"
+            launcher:x="1"
+            launcher:y="1" />
+        <favorite
+            launcher:className="cn.ninegame.gamemanagerhd.UserGuideActivity"
+            launcher:packageName="cn.ninegame.gamemanagerhd"
+            launcher:screen="2"
+            launcher:x="1"
+            launcher:y="1" />
+        <favorite
+            launcher:className="umido.ugamestore.GuideActivity"
+            launcher:packageName="umido.ugamestore"
+            launcher:screen="2"
+            launcher:x="1"
+            launcher:y="1" />
+    </folder>
+    
+
+</favorites>

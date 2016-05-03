@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<cfgOverrides> 
+    <!-- 对于类似于开关的功能 0表示关 1表示开 -->
+    <!-- 是否隐藏从学习中心下载的图标 -->
+    <cfgOverride name="hide_learningcenter_app" value="1"/> 
+</cfgOverrides>

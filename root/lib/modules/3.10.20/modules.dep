@@ -1,0 +1,33 @@
+videobuf-vmalloc.ko: videobuf-core.ko
+vxd392.ko:
+bcm_bt_lpm.ko:
+hid-apple.ko:
+ums-sddr09.ko:
+uvcvideo.ko: videobuf2-vmalloc.ko videobuf2-memops.ko videobuf2-core.ko
+videobuf2-memops.ko:
+gslx68x_ts.ko:
+videobuf-core.ko:
+nfsv3.ko: nfs_acl.ko nfs.ko lockd.ko sunrpc.ko
+atomisp-css2400b0_v21.ko: videobuf-vmalloc.ko videobuf-core.ko
+8723bs.ko: cfg80211.ko
+atomisp-css2401a0_v21.ko: videobuf-vmalloc.ko videobuf-core.ko
+ums-sddr55.ko:
+atomisp-css2401a0_legacy_v21.ko: videobuf-vmalloc.ko videobuf-core.ko
+sunrpc.ko:
+usbmon.ko:
+auth_rpcgss.ko: sunrpc.ko
+lockd.ko: sunrpc.ko
+sr_mod.ko: cdrom.ko
+cfg80211.ko:
+videobuf2-core.ko:
+videobuf2-vmalloc.ko: videobuf2-memops.ko
+gc_class.ko:
+lm3642.ko:
+nfs.ko: lockd.ko sunrpc.ko
+nfs_acl.ko: sunrpc.ko
+nfsv2.ko: nfs.ko lockd.ko sunrpc.ko
+cdrom.ko:
+gslx680_ts_acpi.ko:
+lm3554.ko:
+nfsv4.ko: nfs.ko lockd.ko sunrpc.ko
+mac80211.ko: cfg80211.ko

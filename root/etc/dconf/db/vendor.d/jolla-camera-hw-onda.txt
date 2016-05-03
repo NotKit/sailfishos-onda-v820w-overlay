@@ -1,0 +1,1 @@
+/etc/jolla-camera-hw-ov2680b.txt
